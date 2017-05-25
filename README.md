@@ -1,4 +1,4 @@
-# IsDocker
+# IsDocker [![Build Status](https://travis-ci.org/dlion/IsDocker.svg?branch=master)](https://travis-ci.org/dlion/IsDocker)
 Check if the process is running inside a Docker container
 
 ## How to use it
